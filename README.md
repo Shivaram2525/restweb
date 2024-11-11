@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date:11-11-2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -241,6 +241,7 @@ footer > div:last-child { /* Copyright */
 ## OUTPUT:
 <img width="1680" alt="Restaurant_Code" src="https://github.com/user-attachments/assets/8b67e0b6-e88a-4d5c-b691-e087001803d0">
 <img width="1680" alt="Restaurant(1)" src="https://github.com/user-attachments/assets/f6a3e940-bde1-4116-9f53-866eb3f85913">
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
