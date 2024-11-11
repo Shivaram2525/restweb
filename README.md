@@ -242,9 +242,5 @@ footer > div:last-child { /* Copyright */
 <img width="1680" alt="Restaurant_Code" src="https://github.com/user-attachments/assets/8b67e0b6-e88a-4d5c-b691-e087001803d0">
 <img width="1680" alt="Restaurant(1)" src="https://github.com/user-attachments/assets/f6a3e940-bde1-4116-9f53-866eb3f85913">
 
-
-
-
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
